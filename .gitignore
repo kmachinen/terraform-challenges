@@ -37,3 +37,7 @@ override.tf.json
 terraform.rc
 
 *.lock.hcl
+
+*.txt
+*.pem
+*.pub
