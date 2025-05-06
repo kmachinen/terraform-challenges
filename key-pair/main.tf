@@ -1,4 +1,4 @@
-# Create a key pair using Terraform
+# Create a EC2 key pair using Terraform
 
 terraform {
   required_providers {
